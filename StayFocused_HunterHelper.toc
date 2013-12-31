@@ -1,0 +1,12 @@
+## Interface: 40000
+## Title: |cffa0a0f0Stay Focused!|r Hunter Helper
+## Description: Module to implement the color-coded focus bar for hunters by Jotaro
+## Author: Drauer, Jotaro
+## Version: 40000.6.4a
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## Dependencies: StayFocused
+## SavedVariablesPerCharacter: StayFocused_HunterHelperDB
+
+StayFocused_HunterHelper.lua
+Config.lua
